@@ -1,5 +1,5 @@
 {
-  "name": "@freijea/nightwatch",
+  "name": "nightwatch",
   "version": "1.0.0",
   "description": "Check if your node project has change in any file and restart the app.",
   "main": "index.js",
@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/freijea/nightWatch.git"
   },
-  "keywords": [],
+  "keywords": [
+    "changes in project",
+    "restart project automatically",
+    "monitor changes in project"
+  ],
   "author": "Jean Santos",
   "license": "ISC",
   "bin": {
