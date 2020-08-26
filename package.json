@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/freijea/nightWatch/issues"
   },
-  "homepage": "https://github.com/freijea/nightWatch#readme"
+  "homepage": "https://github.com/freijea/nightWatch#readme",
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chokidar": "^3.4.2",
+    "lodash.debounce": "^4.0.8"
+  }
 }
