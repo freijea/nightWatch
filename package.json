@@ -1,0 +1,23 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "Check if your node project has change in any file and restart the app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freijea/nightWatch.git"
+  },
+  "keywords": [],
+  "author": "Jean Santos",
+  "license": "ISC",
+  "bin": {
+    "nw": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/freijea/nightWatch/issues"
+  },
+  "homepage": "https://github.com/freijea/nightWatch#readme"
+}
