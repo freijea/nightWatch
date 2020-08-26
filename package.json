@@ -1,5 +1,5 @@
 {
-  "name": "nightwatch",
+  "name": "@freijea/nightwatch",
   "version": "1.0.0",
   "description": "Check if your node project has change in any file and restart the app.",
   "main": "index.js",
